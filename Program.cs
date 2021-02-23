@@ -7,7 +7,7 @@ namespace MappingExperiments
     {
         static void Main(string[] args)
         {
-            BenchmarkRunner.Run<MappingBenchmarks>();
+            BenchmarkRunner.Run<MappingBenchmarks>(); 
         }
     }
 }
