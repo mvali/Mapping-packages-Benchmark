@@ -1,5 +1,5 @@
 # Mapping-packages-Benchmark
-Test console project to see what automatic mapper takes less time to execute
+Test console project in .Net Core v5 to see what automatic mapper takes less time to execute
 Tests are done using : BenchmarkDotNet v0.12.1
 Mappers tested:
 - Manual map
