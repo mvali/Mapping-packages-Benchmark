@@ -6,14 +6,12 @@ Mappers tested:
 - AutoMapper v10.1.1
 - ExpressMapper.Core v1.9.3
 - Mapster v7.1.3
+ <br/>
+Results may vary depending on your processor and compiler used but for me results are listed below. <br/>
+Thank you "jerviscui" for remind me to also post results. <br/>
 
-Results may vary depending on your processor and compiler used but for me results are listed below.
-Thank you "jerviscui" for remind me to also post results.
-
-.NET Core SDK=5.0.201
-  [Host]     : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT
-  DefaultJob : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT
-
+.NET Core SDK=5.0.201 <br/>
+  [Host]     : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT <br/>
 
 |                    Method |        Mean |     Error |      StdDev |  Gen 0 | Gen 1 | Gen 2 | Allocated |
 |-------------------------- |------------:|----------:|------------:|-------:|------:|------:|----------:|
